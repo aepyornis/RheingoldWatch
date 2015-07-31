@@ -32,3 +32,15 @@
 td {
     font-family: ariel;
 }
+
+.license {
+    font-size: .8em;
+}
+
+.the-links h4 {
+    padding-bottom: .6em;
+}
+
+.the-links {
+    margin-bottom: 4em;
+}
